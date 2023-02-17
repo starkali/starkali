@@ -14,7 +14,7 @@
 	</a>
 </div>
 <div>
-	http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkali&theme=github_dark
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkali&theme=github_dark">
 </div>
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
