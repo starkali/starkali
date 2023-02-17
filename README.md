@@ -2,6 +2,9 @@
 	<h1>Hi there, I'm Ali</h1>
 	<h3>Python Developer</h3>
 </div>
+<div>
+	<img src="https://img.shields.io/badge/">
+</div>
 <div id="graphs" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkali&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkali&theme=github_dark">
