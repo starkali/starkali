@@ -13,7 +13,7 @@
 		<img src="https://t.me/star_kali" alt="Telegram"/>
 	</a>
 </div>
-<div>
+<div id="graphs" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkali&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkali&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starkali&theme=github_dark">
