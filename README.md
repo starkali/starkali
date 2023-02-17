@@ -5,7 +5,7 @@
 <div id="socials" align="center">
 	<a href="linkedin-url">
 		<img src="https://www.linkedin.com/in/kirilov-ali/" alt="LinkedIn"/>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" with="200px" height="300"/>
 	</a>
 	<a href="my-site-url">
 		<img src="https://starkali.github.io/" alt="My Site"/>
