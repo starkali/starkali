@@ -11,7 +11,7 @@ troubleshooting hardware and software issues.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kirilov-ali/)
-[![Site](https://img.shields.io/website?down_color=red&down_message=online&up_color=green&url=https%3A%2F%2Fstarkali.github.io%2F)])
+[![Site](https://img.shields.io/website?down_color=red&down_message=online&up_color=green&url=https%3A%2F%2Fstarkali.github.io%2F)]
 # 💻 Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
