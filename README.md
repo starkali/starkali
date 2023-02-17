@@ -1,10 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+I'm a developer familiar with PHP, JavaScript, MySQL,
+and Django. I am studying Python to pursue robotics and
+artificial intelligence. I have worked as a technician and
+assistant network administrator with experience in network
+operations, server administration, Cisco products, HPE
+switches, LAMP, Active Directory, Windows Server, firewalls,
+virtual machines, routing, and switching. I have experience in
+troubleshooting hardware and software issues.
 
 
 ## 🌐 Socials:
