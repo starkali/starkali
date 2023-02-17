@@ -14,6 +14,7 @@
 	</a>
 </div>
 <div>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkali&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starkali&theme=github_dark">
 </div>
 <div>
