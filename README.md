@@ -3,7 +3,7 @@
 	<h3>Python Developer</h3>
 </div>
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkali&hide_progress=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkali">
 </div>
 <div id="graphs" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starkali&theme=github_dark">
