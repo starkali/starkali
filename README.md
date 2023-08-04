@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm a developer familiar with PHP, JavaScript, MySQL,
-and Django. I am studying Python to pursue robotics and
-artificial intelligence. I have worked as a technician and
-assistant network administrator with experience in network
-operations, server administration, Cisco products, HPE
-switches, LAMP, Active Directory, Windows Server, firewalls,
-virtual machines, routing, and switching. I have experience in
-troubleshooting hardware and software issues.
+I'm Ali Kirilov. I am deeply immersed in the world of programming and possess profound knowledge in Oracle SQL, PL/SQL, MySQL, Power BI, along with a year of experience in Java development.
+My expertise extends to administering Linux and Windows operating systems, system administration, DHCP & DNS, Windows Server, AD DC, GPO, LDAP, file systems, iSCSI, NAS, SAN, vSAN, ESXi, vSphere, VM, and Veeam Backup.
+Additionally, I have hands-on experience with HP & Cisco networking technologies, including VLAN configuration, trunking, LAGG, PoE, Ethernet, Wi-Fi 4/6, IP v4/6, and various other aspects.
+My relentless pursuit of continuous self-improvement and exploring the latest technologies enables me to overcome technical challenges and seek new avenues for growth.
+Collaboration with colleagues and effective communication is essential, and I value teamwork on innovative projects.
+My goal is to become a sought-after developer, contributing to advancements in artificial intelligence and robotics.
+With enthusiasm and ambition, I aspire to make a meaningful impact on technology progress and create positive change in the IT world.
+Embracing new challenges, I eagerly engage in projects that broaden my knowledge and experience, reaffirming my dedication to the field of information technology.
 
 # 💻 Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
